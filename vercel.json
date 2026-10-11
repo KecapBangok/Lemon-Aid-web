@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/Lemon-Aid/loginpage.html",
-      "permanent": false
-    }
-  ]
-}
